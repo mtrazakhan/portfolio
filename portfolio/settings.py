@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
      #My apps
     'jobs.apps.JobsConfig',
+    'blog.apps.BlogConfig',
 ]
 
 MIDDLEWARE = [
